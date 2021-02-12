@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin: 24px;
+  padding: 12px;
+  cursor: pointer;
+}
